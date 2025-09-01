@@ -1,4 +1,9 @@
-# 🧬 WGCNA Pipeline for RNA-Seq Adipogenesis Study
+🧬 WGCNA Pipeline for RNA-Seq Adipogenesis Study
+
+#_________This is for demonstration purpose only___________#
+
+#________The official WGCNA website recommends at least 15 samples for analysis____________#
+
 
 This repository provides an **end-to-end R workflow** for **Weighted Gene Co-expression Network Analysis (WGCNA)** on RNA-Seq data.  
 It is built around the public dataset [**GSE223846**](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223846), focusing on the molecular regulation of **PPARγ-mediated adipogenesis**.
